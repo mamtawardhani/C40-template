@@ -61,7 +61,7 @@ class Game{
                        
                         // text(allPlayers[plr].name );
                         // text(allPlayers[plr].name ,y+25);
-                         text(allPlayers[plr].name ,x-25,y+25);
+                        //  text(allPlayers[plr].name ,x-25,y+25);
                         // Text(allPlayers[plr].name ,x-25,y+25);
   
                      }
