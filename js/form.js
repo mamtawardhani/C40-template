@@ -61,10 +61,10 @@ class Form{
             // var playerInfoRef = database.ref('');
             // playerInfoRef(); 
 
-            player.updateCount(0);
-            game.update(0);
-            var playerInfoRef = database.ref('players');
-            playerInfoRef.remove(); 
+            //  player.updateCount(0);
+            // game.update(0);
+            // var playerInfoRef = database.ref('players');
+            // playerInfoRef.remove(); 
 
         });
 
